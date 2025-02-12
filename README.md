@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alepaladio
-- 👀 I’m interested in the coastal environment and healt econ
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on coast line detection
+- 👀 I’m interested in the coastal modeling
+- 🌱 I’m currently learning python and fortran
 - 📫 How to reach me alejandropaladio@gmail.com
 
 <!---
