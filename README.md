@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alepaladio
-- 👀 I’m interested in the coastal modeling
-- 🌱 I’m currently learning python and fortran
-- 📫 How to reach me alejandropaladio@gmail.com
+- I’m @alepaladio
+- I’m interested in the coastal modeling
+- I’m currently learning python and fortran
+- How to reach me alejandropaladio@gmail.com
 
 <!---
 alepaladio/alepaladio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
